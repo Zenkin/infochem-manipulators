@@ -8,4 +8,7 @@
    :caption: Содержание:
 
    parts_list
+   soldering
+
+   
  
