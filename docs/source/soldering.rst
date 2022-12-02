@@ -60,7 +60,8 @@
 
 
 .. figure:: _static/Pictures/soldering/Р6.jpg
-    :scale: 40 %
+    :height: 600px
+    :width: 400 px
     :align: center
     
 
@@ -68,14 +69,16 @@
 Впаяйте белый провод к ножке 1 на концевике. Красный к ножке 3.
 
 .. figure:: _static/Pictures/soldering/Р7.jpg
-    :scale: 40 %
+    :height: 600px
+    :width: 400 px
     :align: center
    
 
 Проденьте термоусадку на место пайки и нагрейте ее, пока она не усадится.
 
 .. figure:: _static/Pictures/soldering/Р8.jpg
-    :scale: 40 %
+    :height: 600px
+    :width: 400 px
     :align: center
 
 
@@ -83,7 +86,8 @@
 Пометте провода концевиков следующим образом, как показано на картинке, чтобы в дальнейшем их не перепутать (самый длинный провод - 4 звено, самый короткий - 1 звено)
 
 .. figure:: _static/Pictures/soldering/Р9.jpg
-    :scale: 40 %
+    :height: 600px
+    :width: 400 px
     :align: center
 
 
@@ -104,6 +108,7 @@ _________________________________
 	"Nema 14 35 мм", 176
 
 
+
 Припаяйте провода с другой стороны к разъему GX-16 следующим образом:
 1 - черный
 2 - красный
@@ -112,12 +117,14 @@ _________________________________
 
 
 .. figure:: _static/Pictures/soldering/Р10.jpg
-    :scale: 50 %
+    :height: 600px
+    :width: 400 px
     :align: center
 
 
 
 
 .. figure:: _static/Pictures/soldering/Р11.jpg
-    :scale: 50 %
+    :height: 600px
+    :width: 400 px
     :align: center
