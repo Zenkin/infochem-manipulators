@@ -8,7 +8,7 @@ ___________________
        :scale: 15 %
 
 .. |pic2| image:: _static/Pictures/dispenser/Р2.jpg
-       :scale: 15 %
+       :scale: 10 %
 
 .. |pic3| image:: _static/Pictures/dispenser/Р3.jpg
        :scale: 15 %
