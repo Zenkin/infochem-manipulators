@@ -530,7 +530,7 @@ _______
 
 
 .. figure:: _static/Pictures/first_link/Р65.jpg
-    :height: 600px
-    :width: 600 px
+    :height: 400px
+    :width: 300 px
     :align: center
 
