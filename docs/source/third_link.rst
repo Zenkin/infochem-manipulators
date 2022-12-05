@@ -299,75 +299,75 @@ ______
 
 .. figure:: _static/Pictures/third_link/Р39.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Вставье вал 8x112 в предыдущее звено, чтобы закрепить третье звено.
 
 .. figure:: _static/Pictures/third_link/Р40.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Вставьте один конец ремня в паз, как показано на картинке.
 
 .. figure:: _static/Pictures/third_link/Р41.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Натяните ремень и вставьте второй конец ремня в паз.
 
 .. figure:: _static/Pictures/third_link/Р42.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Закрутим винт, который зажмет ремень ремень.
 
 .. figure:: _static/Pictures/third_link/Р43.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Закройте отверстие с подшипником и валом  деталью J2 cap и прикрутите ее болтами М3x10 цилиндрическими с двух сторон.
 
 .. figure:: _static/Pictures/third_link/Р44.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Результат на картинке ниже:
 
 .. figure:: _static/Pictures/third_link/Р45.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Закрепим J3 fxnear 1 с помощью трех болтов М3x20.
 
 .. figure:: _static/Pictures/third_link/Р46.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Вставим гайки М4 в пазы для них c любой из сторон третьего звена, как показано на картинке.
 
 .. figure:: _static/Pictures/third_link/Р47.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 С другой стороны затяните болтами М4x55.
 
 .. figure:: _static/Pictures/third_link/Р48.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 .. figure:: _static/Pictures/third_link/Р48.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 
