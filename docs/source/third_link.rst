@@ -232,28 +232,28 @@ ______
 
 .. figure:: _static/Pictures/third_link/Р29.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Закрепим двигатель потайными болтами М3x10, как показано на картинке.
 
 .. figure:: _static/Pictures/third_link/Р30.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Результат на картинке ниже:
 
 .. figure:: _static/Pictures/third_link/Р31.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Закрепим натяжитель болтом М3x30, как показано на картинке.
 
 .. figure:: _static/Pictures/third_link/Р32.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 
@@ -261,21 +261,21 @@ ______
 
 .. figure:: _static/Pictures/third_link/Р33.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Установите J3 p3 вместе с потайным болтом М3x20 в паз, как показано на картинке.
 
 .. figure:: _static/Pictures/third_link/Р34.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Немного закрутите его до состояния, как показано на картинке.
 
 .. figure:: _static/Pictures/third_link/Р35.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Проденьте ремень Т5 ширины 16мм длины 440 мм J2 main, как показано на картинках ниже (чтобы проще продеть, предварительно загните кончик ремня).
