@@ -105,14 +105,14 @@ ______
 
 .. figure:: _static/Pictures/third_link/Р11.jpg
     :height: 500px
-    :width: 300 px
+    :width: 600 px
     :align: center
 
 Результат данных действий вы можете наблюдать на нижней фотографии.
 
 .. figure:: _static/Pictures/third_link/Р12.jpg
     :height: 500px
-    :width: 300 px
+    :width: 600 px
     :align: center
 
 
@@ -134,56 +134,56 @@ ______
 
 .. figure:: _static/Pictures/third_link/Р15.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Вставляем вплавляемую втулку М3x10 в отверстие, которое указано на картинке.
 
 .. figure:: _static/Pictures/third_link/Р16.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Результат можете наблюдать ниже.
 
 .. figure:: _static/Pictures/third_link/Р17.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Вставляем вплавляемую втулку М4x10 в отверстие, которое указано на картинке.
 
 .. figure:: _static/Pictures/third_link/Р18.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Вставим 3 гайки М4 в пазы для них, как показано на картинке (можете вставлять гайки с любой из сторон J3 main p1 или J3 main p2 ).
 
 .. figure:: _static/Pictures/third_link/Р19.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Вставим болт М3x20 с тремя подшипниками 10x3x4 в натяжитель ремня и затягиваем его так, чтобы подшипники свободно крутились.
 
 .. figure:: _static/Pictures/third_link/Р20.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Далее вставляем болт М4x55 в соединенные между собой J3 main p1 и J3 main p2, как на картинке.
 
 .. figure:: _static/Pictures/third_link/Р21.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Результат можете наблюдать на нижней картинке.
 
 .. figure:: _static/Pictures/third_link/Р22.jpg
     :height: 500px
-    :width: 300 px
+    :width: 500 px
     :align: center
 
 Вставляем подшипники 22x8x7 в отверстия, как показано на картинке.
