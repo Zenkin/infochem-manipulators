@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '3Д Моделирование'
-copyright = '2022, Артемий'
+project = 'Робот-химик'
+copyright = '2022, Зенкин Артемий'
 author = 'Артемий'
 release = '0.1'
 
